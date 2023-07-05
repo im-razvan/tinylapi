@@ -1,5 +1,7 @@
 ### POST /v1/shorten_url
 
+(rate limit 3 requests/10 seconds)
+
 Shortens the given URL.
 
 #### Request
